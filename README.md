@@ -1,2 +1,2 @@
 # hudiTest
-Explorinf the Hudi Java Client
+Exploring the Hudi Java Client
